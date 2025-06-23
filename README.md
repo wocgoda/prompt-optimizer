@@ -4,13 +4,13 @@
 
 [English](README_EN.md) | [中文](README.md)
 
-[![GitHub stars](https://img.shields.io/github/stars/linshenkx/prompt-optimizer)](https://github.com/linshenkx/prompt-optimizer/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/wocgoda/prompt-optimizer)](https://github.com/wocgoda/prompt-optimizer/stargazers)
 ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/cakkkhboolfnadechdlgdcnjammejlna?style=flat&label=Chrome%20Users&link=https%3A%2F%2Fchromewebstore.google.com%2Fdetail%2F%25E6%258F%2590%25E7%25A4%25BA%25E8%25AF%258D%25E4%25BC%2598%25E5%258C%2596%25E5%2599%25A8%2Fcakkkhboolfnadechdlgdcnjammejlna)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Docker Pulls](https://img.shields.io/docker/pulls/linshen/prompt-optimizer)](https://hub.docker.com/r/linshen/prompt-optimizer)
-![GitHub forks](https://img.shields.io/github/forks/linshenkx/prompt-optimizer?style=flat)
-[![Deploy with Vercel](https://img.shields.io/badge/Vercel-indigo?style=flat&logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flinshenkx%2Fprompt-optimizer)
+![GitHub forks](https://img.shields.io/github/forks/wocgoda/prompt-optimizer?style=flat)
+[![Deploy with Vercel](https://img.shields.io/badge/Vercel-indigo?style=flat&logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwocgoda%2Fprompt-optimizer)
 
 [在线体验](https://prompt.always200.com) | [快速开始](#快速开始) | [常见问题](#常见问题) | [开发文档](dev.md) | [Vercel部署指南](docs/vercel.md) | [Chrome插件](https://chromewebstore.google.com/detail/prompt-optimizer/cakkkhboolfnadechdlgdcnjammejlna)
 
@@ -49,7 +49,7 @@ Prompt Optimizer是一个强大的AI提示词优化工具，帮助你编写更�
 
 ### 2. Vercel部署
 方式1：一键部署到自己的Vercel：
-   [![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flinshenkx%2Fprompt-optimizer)
+   [![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwocgoda%2Fprompt-optimizer)
 
 方式2: Fork项目后在Vercel中导入（推荐）：
    - 先Fork项目到自己的GitHub
@@ -85,7 +85,7 @@ docker run -d -p 80:80 \
 ### 5. Docker Compose部署
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/linshenkx/prompt-optimizer.git
+git clone https://github.com/wocgoda/prompt-optimizer.git
 cd prompt-optimizer
 
 # 2. 可选：创建.env文件配置API密钥和访问认证
@@ -166,7 +166,7 @@ Docker部署时通过 `-e` 参数配置环境变量：
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/linshenkx/prompt-optimizer.git
+git clone https://github.com/wocgoda/prompt-optimizer.git
 cd prompt-optimizer
 
 # 2. 安装依赖
@@ -202,11 +202,11 @@ pnpm dev:fresh        # 完整重置并重新启动开发环境
 
 ## Star History
 
-<a href="https://star-history.com/#linshenkx/prompt-optimizer&Date">
+<a href="https://star-history.com/#wocgoda/prompt-optimizer&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=linshenkx/prompt-optimizer&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=linshenkx/prompt-optimizer&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=linshenkx/prompt-optimizer&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=wocgoda/prompt-optimizer&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=wocgoda/prompt-optimizer&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=wocgoda/prompt-optimizer&type=Date" />
  </picture>
 </a>
 
@@ -262,8 +262,8 @@ pnpm dev:fresh        # 完整重置并重新启动开发环境
 
 感谢所有为项目做出贡献的开发者！
 
-<a href="https://github.com/linshenkx/prompt-optimizer/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=linshenkx/prompt-optimizer" alt="贡献者" />
+<a href="https://github.com/wocgoda/prompt-optimizer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=wocgoda/prompt-optimizer" alt="贡献者" />
 </a>
 
 ## 📄 开源协议

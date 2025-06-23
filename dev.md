@@ -20,7 +20,7 @@
 ### 开发环境设置
 ```bash
 # 1. 克隆项目
-git clone https://github.com/linshenkx/prompt-optimizer.git
+git clone https://github.com/wocgoda/prompt-optimizer.git
 cd prompt-optimizer
 
 # 2. 安装依赖

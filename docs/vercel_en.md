@@ -12,7 +12,7 @@
 This method allows you to track project updates, making it easier to sync the latest features and bug fixes.
 
 1. **Fork the project to your GitHub account**
-   - Visit the [prompt-optimizer project](https://github.com/linshenkx/prompt-optimizer)
+   - Visit the [prompt-optimizer project](https://github.com/wocgoda/prompt-optimizer)
    - Click the "Fork" button in the top right corner
    - After completing the fork operation, you will have a copy of this project under your GitHub account
 
@@ -58,7 +58,7 @@ This method allows you to track project updates, making it easier to sync the la
 
 6. **Sync upstream updates**
    - Open your forked project on GitHub
-   - If there are updates, it will show "This branch is X commits behind linshenkx:main"
+   - If there are updates, it will show "This branch is X commits behind wocgoda:main"
    - Click the "Sync fork" button to sync the latest changes
    - Vercel will automatically detect code changes and redeploy
 
@@ -67,7 +67,7 @@ This method allows you to track project updates, making it easier to sync the la
 If you only need quick deployment and don't care about subsequent updates, you can use the one-click deployment method:
 
 1. Click the button below to deploy directly to Vercel
-   [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flinshenkx%2Fprompt-optimizer)
+   [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwocgoda%2Fprompt-optimizer)
 
 2. Follow Vercel's guidance to complete the deployment process
    

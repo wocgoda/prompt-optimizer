@@ -12,7 +12,7 @@
 这种方式可以让你跟踪项目更新，便于后续同步最新功能和bug修复。
 
 1. **Fork项目到自己的GitHub**
-   - 访问[prompt-optimizer项目](https://github.com/linshenkx/prompt-optimizer)
+   - 访问[prompt-optimizer项目](https://github.com/wocgoda/prompt-optimizer)
    - 点击右上角的"Fork"按钮
    - 完成fork操作后，你将在自己的GitHub账号下拥有此项目的副本
 
@@ -58,7 +58,7 @@
 
 6. **同步上游更新**
    - 在GitHub上打开你fork的项目
-   - 如果有更新，会显示"This branch is X commits behind linshenkx:main"
+   - 如果有更新，会显示"This branch is X commits behind wocgoda:main"
    - 点击"Sync fork"按钮同步最新更改
    - Vercel会自动检测到代码变更并重新部署
 
@@ -67,7 +67,7 @@
 如果你只需要快速部署而不关心后续更新，可以使用一键部署方式：
 
 1. 点击以下按钮直接部署到Vercel
-   [![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flinshenkx%2Fprompt-optimizer)
+   [![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwocgoda%2Fprompt-optimizer)
 
 2. 按照Vercel的引导完成部署流程
    

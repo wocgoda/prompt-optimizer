@@ -4,13 +4,13 @@
 
 [English](README_EN.md) | [中文](README.md)
 
-[![GitHub stars](https://img.shields.io/github/stars/linshenkx/prompt-optimizer)](https://github.com/linshenkx/prompt-optimizer/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/wocgoda/prompt-optimizer)](https://github.com/wocgoda/prompt-optimizer/stargazers)
 ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/cakkkhboolfnadechdlgdcnjammejlna?style=flat&label=Chrome%20Users&link=https%3A%2F%2Fchromewebstore.google.com%2Fdetail%2F%25E6%258F%2590%25E7%25A4%25BA%25E8%25AF%258D%25E4%25BC%2598%25E5%258C%2596%25E5%2599%25A8%2Fcakkkhboolfnadechdlgdcnjammejlna)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Docker Pulls](https://img.shields.io/docker/pulls/linshen/prompt-optimizer)](https://hub.docker.com/r/linshen/prompt-optimizer)
-![GitHub forks](https://img.shields.io/github/forks/linshenkx/prompt-optimizer?style=flat)
-[![Deploy with Vercel](https://img.shields.io/badge/Vercel-indigo?style=flat&logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flinshenkx%2Fprompt-optimizer)
+![GitHub forks](https://img.shields.io/github/forks/wocgoda/prompt-optimizer?style=flat)
+[![Deploy with Vercel](https://img.shields.io/badge/Vercel-indigo?style=flat&logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwocgoda%2Fprompt-optimizer)
 
 [Live Demo](https://prompt.always200.com) | [Quick Start](#quick-start) | [FAQ](#faq) | [Development Docs](dev.md) | [Vercel Deployment Guide](docs/vercel_en.md) | [Chrome Extension](https://chromewebstore.google.com/detail/prompt-optimizer/cakkkhboolfnadechdlgdcnjammejlna)
 
@@ -49,7 +49,7 @@ This is a pure frontend project with all data stored locally in your browser and
 
 ### 2. Vercel Deployment
 Method 1: One-click deployment to your own Vercel:
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flinshenkx%2Fprompt-optimizer)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwocgoda%2Fprompt-optimizer)
 
 Method 2: Fork the project and import to Vercel (Recommended):
    - First fork the project to your GitHub account
@@ -84,7 +84,7 @@ docker run -d -p 80:80 \
 ### 5. Docker Compose Deployment
 ```bash
 # 1. Clone the repository
-git clone https://github.com/linshenkx/prompt-optimizer.git
+git clone https://github.com/wocgoda/prompt-optimizer.git
 cd prompt-optimizer
 
 # 2. Optional: Create .env file for API keys and authentication
@@ -165,7 +165,7 @@ For detailed documentation, see [Development Documentation](dev.md)
 
 ```bash
 # 1. Clone the project
-git clone https://github.com/linshenkx/prompt-optimizer.git
+git clone https://github.com/wocgoda/prompt-optimizer.git
 cd prompt-optimizer
 
 # 2. Install dependencies
@@ -200,11 +200,11 @@ For detailed project status, see [Project Status Document](docs/project-status.m
 
 ## Star History
 
-<a href="https://star-history.com/#linshenkx/prompt-optimizer&Date">
+<a href="https://star-history.com/#wocgoda/prompt-optimizer&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=linshenkx/prompt-optimizer&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=linshenkx/prompt-optimizer&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=linshenkx/prompt-optimizer&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=wocgoda/prompt-optimizer&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=wocgoda/prompt-optimizer&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=wocgoda/prompt-optimizer&type=Date" />
  </picture>
 </a>
 
@@ -259,8 +259,8 @@ Tip: When developing with Cursor tool, it is recommended to do the following bef
 
 Thanks to all the developers who have contributed to this project!
 
-<a href="https://github.com/linshenkx/prompt-optimizer/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=linshenkx/prompt-optimizer" alt="Contributors" />
+<a href="https://github.com/wocgoda/prompt-optimizer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=wocgoda/prompt-optimizer" alt="Contributors" />
 </a>
 
 ## 📄 License

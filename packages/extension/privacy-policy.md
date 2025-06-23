@@ -88,7 +88,7 @@
 ## 联系我们
 
 如果您对本隐私政策有任何疑问或建议，请通过以下方式联系我们：
-- 通过GitHub Issues: https://github.com/linshenkx/prompt-optimizer/issues
+- 通过GitHub Issues: https://github.com/wocgoda/prompt-optimizer/issues
 
 ## 同意
 

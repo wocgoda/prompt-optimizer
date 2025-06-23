@@ -365,6 +365,6 @@ const handleDataImported = () => {
 
 // GitHub 链接处理
 const openGithubRepo = () => {
-  window.open('https://github.com/linshenkx/prompt-optimizer', '_blank')
+  window.open('https://github.com/wocgoda/prompt-optimizer', '_blank')
 }
 </script>
